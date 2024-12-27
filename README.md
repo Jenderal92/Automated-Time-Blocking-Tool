@@ -1,5 +1,8 @@
 # Automated Time Blocking Tool
 
+![automated-time-blocking-tool Jenderal92](https://github.com/user-attachments/assets/211ebb5e-e87a-450b-9c04-59881ebbe4af)
+
+
 The **Automated Time Blocking Tool** allows users to automatically block time in their Google Calendar for additional tasks after existing events. By leveraging the **Google Calendar API**, this tool ensures that your calendar is always updated and optimized for productivity.
 
 ---
